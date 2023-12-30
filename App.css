@@ -1,0 +1,27 @@
+#root{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+body{
+    background-color: rgb(134, 134, 245);
+}
+.img{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 300px;
+    filter:opacity(75%);
+    border-radius: 40%;
+}
+.find{
+    text-align: center;
+    margin: 10px;
+    width: 100px;
+}
+.clicks{
+    text-align: center;
+    margin: 10px;
+    width: 100px;
+}
